@@ -1,0 +1,22 @@
+{
+  "name": "frontloopschallenge",
+  "version": "1.0.0",
+  "description": "Little challenge on 30 days I wanted to try. It's one challenge a day to improve my front-end skills. It comes from [frontloops.io](http://frontloops.io/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbuhl/FrontLoopsChallenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbuhl/FrontLoopsChallenge/issues"
+  },
+  "homepage": "https://github.com/sbuhl/FrontLoopsChallenge#readme",
+  "dependencies": {
+    "normalize.css": "^8.0.0"
+  }
+}
