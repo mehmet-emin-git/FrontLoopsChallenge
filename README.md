@@ -5,7 +5,7 @@ It's one challenge a day to improve my front-end skills.
 It comes from [frontloops.io](http://frontloops.io/)
 
 - [x] Loop 1 - Step 1 - Monday 23 of April
-- [ ] Loop 1 - Step 2
+- [x] Loop 1 - Step 2 - Tuesday 24 of April
 - [ ] Loop 1 - Step 3
 - [ ] Loop 1 - Step 4
 - [ ] Loop 1 - Step 5
