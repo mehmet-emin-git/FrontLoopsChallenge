@@ -4,7 +4,7 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "A1751C11-BEB3-4346-B822-A21826C6DF58"
+		"uuidString": "2278C46F-85B6-4C7A-B3BE-5EBFCE9D7907"
 		}
 	],
 "creatorBuild": "26680",
@@ -15,84 +15,44 @@
 		"oAP": "\/build\/build",
 		"oF": 0
 		},
-	"\/design\/Loop 1 - Step 2.mp4": {
+	"\/design\/Loop 1 - Step 3.mp4": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/build\/design\/Loop 1 - Step 2.mp4",
+		"oAP": "\/build\/design\/Loop 1 - Step 3.mp4",
 		"oF": 0
 		},
-	"\/design\/Loop 1 - Step 2.png": {
+	"\/design\/Loop 1 - Step 3.png": {
 		"ft": 32768,
-		"iS": 1679900,
+		"iS": 154877,
 		"oA": 0,
-		"oAP": "\/build\/design\/Loop 1 - Step 2.png",
+		"oAP": "\/build\/design\/Loop 1 - Step 3.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/img\/arrow.svg": {
+	"\/img\/account.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 0,
-		"oAP": "\/build\/img\/arrow.svg",
+		"oAP": "\/build\/img\/account.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/background.jpg": {
-		"ft": 16384,
-		"iS": 343206,
-		"jF": 0,
+	"\/img\/bicycle.png": {
+		"ft": 32768,
+		"iS": 998752,
 		"oA": 0,
-		"oAP": "\/build\/img\/background.jpg",
+		"oAP": "\/build\/img\/bicycle.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
-		},
-	"\/img\/check.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 0,
-		"oAP": "\/build\/img\/check.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/img\/maestro.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 0,
-		"oAP": "\/build\/img\/maestro.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/img\/mastercard.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 0,
-		"oAP": "\/build\/img\/mastercard.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/img\/visa.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 0,
-		"oAP": "\/build\/img\/visa.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
 		},
 	"\/index.html": {
 		"cB": 0,
@@ -127,10 +87,10 @@
 "manualImportLinks": {
 	},
 "projectAttributes": {
-	"creationDate": 546292059,
-	"displayValue": "Loop 1 - Step 2",
+	"creationDate": 546328416,
+	"displayValue": "Loop 1 - Step 3",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-dunnoGirl",
+	"iconImageName": "meme-gavin",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
