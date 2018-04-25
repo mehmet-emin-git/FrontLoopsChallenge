@@ -9,8 +9,6 @@
 	],
 "creatorBuild": "26680",
 "files": {
-<<<<<<< HEAD
-=======
 	"\/build": {
 		"ft": 65536,
 		"oA": 1,
@@ -113,7 +111,6 @@
 		"oF": 0,
 		"oS": 3
 		},
->>>>>>> 977b2f37e6ddcf8d4b4cdfc72bbb17214d3ed72a
 	"\/styles.css": {
 		"aP": 1,
 		"bl": 0,
