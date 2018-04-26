@@ -7,7 +7,7 @@ It comes from [frontloops.io](http://frontloops.io/)
 - [x] Loop 1 - Step 1 - Monday 23 of April
 - [x] Loop 1 - Step 2 - Tuesday 24 of April
 - [x] Loop 1 - Step 3 - Wednesday 25 of April
-- [ ] Loop 1 - Step 4
+- [x] Loop 1 - Step 4 - Thursday 26 of April
 - [ ] Loop 1 - Step 5
 - [ ] Loop 1 - Step 6
 - [ ] Loop 1 - Step 7
