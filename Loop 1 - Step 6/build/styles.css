@@ -1,0 +1,81 @@
+html,
+body{
+	height: 100%;
+	font-family: Roboto, sans-serif;
+	font-size: 16px;
+}
+h1{
+	font-weight: 200;
+}
+h2{
+	color: #AAAAAA;
+	font-size: 0.8em;
+	font-weight: 400;
+}
+img.logo{
+	width: 23px;
+	height: 23px;
+}
+.container{
+	display: flex;
+	background-color: #4D515C;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	height: 100%;
+}
+
+.item{
+	background-color: white;
+	border-radius: 3px;
+	display: flex;
+	max-width: 80%;
+	align-content: space-between;
+}
+
+.content{
+	flex: 2;
+	display: flex;
+	flex-direction: column;
+	padding: 25px;
+	justify-content: space-between;
+}
+.side{
+	flex: 1;
+}
+.box{
+	padding: 10px 20px  10px 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border:1px solid #EEF0F3;
+	border-radius: 2px;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+.call{
+	text-transform: uppercase;
+	color: #8B8B8C;
+	font-size: 0.8em;
+	font-weight: 700;
+}
+.bottom{
+	display: flex;
+	align-content: center;
+	align-items: center;
+	justify-content: space-between;
+}
+.bottom > p{
+	font-size: 0.8em;
+}
+a{
+	text-transform: uppercase;
+	color: #8B8B8C;
+	font-size: 0.8em;
+	font-weight: 700;
+	text-decoration: none;
+}
+img{
+	max-width: 100%;
+	min-height: 100%;
+}
