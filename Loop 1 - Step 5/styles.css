@@ -20,7 +20,8 @@ h1{
 	font-weight: bold;
 	margin-top: 0;
 	margin-bottom: 0;
-	font-size: 3.5em
+	font-size: 3.5em;
+	font-family: Prompt;
 }
 h2{
 	margin-top: 0;
@@ -32,7 +33,7 @@ h2, p.info-title{
 }
 .container{
 	display: flex;
-	background: url(../img/background.jpg) no-repeat;
+	background: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/GAojbUa/clouds-background-loop-animation_4jrzsnrf__F0000.png) no-repeat;
 	background-size: cover;
 	height: 100%;
 	justify-content: space-around;
@@ -63,6 +64,6 @@ h2, p.info-title{
 	display: flex;
 	justify-content: space-between;
 }
-img{
+.img{
 	padding-left: 30px;
 }
