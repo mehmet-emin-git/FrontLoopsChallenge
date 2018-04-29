@@ -9,8 +9,8 @@ It comes from [frontloops.io](http://frontloops.io/)
 - [x] Loop 1 - Step 3 - Wednesday 25 of April
 - [x] Loop 1 - Step 4 - Thursday 26 of April
 - [x] Loop 1 - Step 5 - Friday 27 of April
-- [ ] Loop 1 - Step 6
-- [ ] Loop 1 - Step 7
+- [x] Loop 1 - Step 6 - Saturday 28 of April
+- [x] Loop 1 - Step 7 - Sunday 29 of April
 - [ ] Loop 1 - Step 8
 - [ ] Loop 1 - Step 9
 - [ ] Loop 1 - Step 10
