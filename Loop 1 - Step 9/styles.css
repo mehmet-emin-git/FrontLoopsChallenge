@@ -1,0 +1,95 @@
+html,
+body{
+	height: 100%;
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: 400;
+}
+svg{
+	width: 20px;
+	height: 20px;
+}
+.container{
+	background-color: #F7CC82;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.item{
+	display: flex;
+	background-color: white;
+	border-radius: 4px;
+	flex-basis: 80%;
+	box-shadow: 0px 0px 41px -13px rgba(0,0,0,0.75);
+	max-height: 60%;
+}
+.wallets{
+	background-color: #F2F2F2;
+	flex-basis: 40%;
+	padding: 30px;
+	overflow: scroll;
+}
+.wallets-header{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+h1{
+	font-weight: lighter;
+}
+.more > svg{
+	width: 28px;
+}
+.card{
+	background-color: white;
+	border: 1px solid #E9E9E9;
+	border-radius: 5px;
+	margin: 15px 0 15px 0;
+	padding: 15px;
+	color: #7A7E81;
+}
+.card-valid{
+	font-size: 0.8em;
+	margin-bottom: 0;
+}
+.card-img > svg{
+	width: 60px;
+	height: auto;
+}
+.content{
+	flex-basis: 60%;
+	background-color: white;
+	padding: 30px;
+	overflow: scroll;
+}
+.content-header{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	border-bottom: 1px solid #E9E9E9;
+}
+.operation{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 10px 0 10px 0;
+}
+.detail > p{
+	margin-bottom: 0px;
+}
+p.details{
+	font-size: 0.7em;
+	color: #E9E9E9;
+	margin-top: 3px;
+}
+.movement > svg{
+	border-radius: 50%;
+	border:1px solid #E9E9E9;
+}
+.minus{
+	color: #91A0C7;
+}
+.plus{
+	color: #89CE6E;
+}
