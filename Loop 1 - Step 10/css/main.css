@@ -1,0 +1,151 @@
+html,
+body{
+	font-family: Roboto;
+	font-weight: 400;
+	font-size: 16px;
+	background-color: white;
+}
+.container{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	margin:auto;
+}
+h1{
+	margin:1em 0;
+}
+header{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 50px;
+	min-width: 660px;
+	margin: 30px auto;
+}
+input{
+	border:0;
+}
+article.watch{
+	padding: 6em 0 10em 0;
+	background: url(../img/watches.jpg) no-repeat;
+	background-position: right -105px bottom 0px;
+	background-size: 50%;
+	border-bottom: 1px solid rgb(155,155,155);
+}
+
+.logo{
+
+}
+.nav{
+	display: flex;
+	align-items: center;
+}
+.nav input{
+	color: #B2B2B3;
+	text-decoration: underline;	
+}
+.nav a{
+	display: block;
+	color: #B2B2B3;
+	text-decoration: none;
+	padding: 10px;
+}
+.nav a.active{
+	color: #A7A6A7;
+	text-decoration: underline;
+}
+.nav a:hover{
+	color: #A7A6A7;
+	text-decoration: underline;
+}
+article{
+	display: flex;
+	justify-content: space-between;
+	padding: 2em 0;
+}
+.inside{
+	max-width: 660px;
+	margin:auto;
+	display: flex;
+}
+
+.head{
+	flex-basis: 50%;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+button{
+	background-color: #EA6160;
+	border-radius: 0;
+	border:0;
+	padding: 10px 5px;
+	max-width: 50%;
+	text-transform: uppercase;
+	color: white;
+	font-size: 0.8em;
+}
+.img{
+	flex-basis: 50%;
+}
+img{
+	max-width: 100%;
+}
+
+p{
+	font-weight: 300;
+	line-height: 1.5em;
+	font-size: 0.8em;
+	margin-bottom: 5px;
+	color: rgb(155,155,155);
+}
+p.spots{
+	color: #999999;
+	font-weight: 700;
+	margin-top: 0;
+}
+h2{
+	margin-bottom: 30px;
+}
+.read-more{
+	display: flex;
+	align-items: center;
+}
+.read-more:hover span{
+	width: 25px;
+}
+span{
+	background-color: #EA6160;
+	height: 2px;
+	width: 20px;
+	margin-right: 5px;
+}
+a.more{
+	color: #EA6160;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 0.8em;
+}
+.features{
+	margin: auto;
+	max-width: 660px;
+	display: flex;
+}
+.col-3{
+	flex-basis: 33%;
+	padding: 10px;
+}
+h2{
+	text-transform: uppercase;
+	font-size: 0.8em;
+}
+.head-content{
+	border-left: 2px solid #999999;
+	padding-left: 30px;
+	margin-bottom: 30px;
+}
+.runner{
+	color: white;
+	padding: 10em 0;
+	background: url(../img/runners.jpg) no-repeat;
+	background-size: cover;
+}
