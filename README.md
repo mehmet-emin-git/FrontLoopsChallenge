@@ -11,10 +11,10 @@ It comes from [frontloops.io](http://frontloops.io/)
 - [x] Loop 1 - Step 5 - Friday 27 of April
 - [x] Loop 1 - Step 6 - Saturday 28 of April
 - [x] Loop 1 - Step 7 - Sunday 29 of April
-- [ ] Loop 1 - Step 8
-- [ ] Loop 1 - Step 9
-- [ ] Loop 1 - Step 10
-- [ ] Loop 2 - Step 1
+- [x] Loop 1 - Step 8 - Monday 30 of April
+- [x] Loop 1 - Step 9 - Tuesday 1st May
+- [x] Loop 1 - Step 10 - Wednesday 2 of May
+- [x] Loop 2 - Step 1 - Thursday 3 of May
 - [ ] Loop 2 - Step 2
 - [ ] Loop 2 - Step 3
 - [ ] Loop 2 - Step 4
