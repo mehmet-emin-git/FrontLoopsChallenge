@@ -1,0 +1,120 @@
+html,
+body{
+	height: 100%;
+	background-color: #DE898A;
+	font-family: Roboto;
+	font-weight: 500;
+	font-size: 16px;
+	color: white;
+}
+
+.container{
+	height: 100%;
+}
+.main-nav{
+	width: 900px;
+	margin: 5em auto 1em auto;
+	display: flex;
+}
+.main-nav a{
+	color: #ECB9B9;
+	padding: 10px 60px 10px 0;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-weight: 700;
+	font-size: 3.3em;
+}
+.main-nav a:hover{
+	color: white;
+}
+.main-nav a.active{
+	color: white;
+}
+.content{
+	width: 900px;
+	margin: auto;
+}
+.body{
+	display: flex;
+	justify-content: center;
+	margin-bottom: 13em;
+}
+.nav{
+	background-color: #EBB9B9;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	width: 100px;
+	height: 100px;
+	color: #855353;
+	align-items: center;
+	font-size: 0.7em;
+}
+.nav:hover{
+	color: black;
+	cursor: pointer;
+}
+.in{
+	width: 900px;
+	display: flex;
+	flex-direction: column;
+}
+.row{
+	display: flex;
+}
+.instruction{
+	width: 300px;
+	height: 300px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.timer{
+	position: relative;
+}
+.row{
+	position: relative;
+}
+.start{
+	position: absolute;
+	top: -25px;
+	left: 10px;
+	width: 280px;
+	flex-basis: 33%;
+}
+button{
+	background-color: black;
+	padding: 20px 15px;
+	border: 0;
+	color: white;
+	border-radius: 5px;
+	text-transform: uppercase;
+	width: 100%;
+}
+button:hover{
+	background-color: #201E1F;
+	cursor: pointer;
+}
+h1{
+	color: #C18D8D;
+	font-weight: 300;
+	font-size: 1.2em;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+h2{
+	font-weight: 2em;
+}
+.timer{
+	background-color: #3E3C3D;
+}
+.temperature{
+	background-color: #353334;
+}
+.load{
+	background-color: #201E1F;
+}
+.button{
+	background-color: #131313;
+}
