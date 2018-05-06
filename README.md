@@ -15,9 +15,9 @@ It comes from [frontloops.io](http://frontloops.io/)
 - [x] Loop 1 - Step 9 - Tuesday 1st May
 - [x] Loop 1 - Step 10 - Wednesday 2 of May
 - [x] Loop 2 - Step 1 - Thursday 3 of May
-- [ ] Loop 2 - Step 2
-- [ ] Loop 2 - Step 3
-- [ ] Loop 2 - Step 4
+- [x] Loop 2 - Step 2 - Friday 4 of May
+- [x] Loop 2 - Step 3 - Saterday 5 of May
+- [x] Loop 2 - Step 4 - Sunday 6 of May
 - [ ] Loop 2 - Step 5
 - [ ] Loop 2 - Step 6
 - [ ] Loop 2 - Step 7
