@@ -4,21 +4,21 @@ Little challenge on 30 days I wanted to try.
 It's one challenge a day to improve my front-end skills.
 It comes from [frontloops.io](http://frontloops.io/)
 
-- [x] Loop 1 - Step 1 - Monday 23 of April
-- [x] Loop 1 - Step 2 - Tuesday 24 of April
-- [x] Loop 1 - Step 3 - Wednesday 25 of April
-- [x] Loop 1 - Step 4 - Thursday 26 of April
-- [x] Loop 1 - Step 5 - Friday 27 of April
-- [x] Loop 1 - Step 6 - Saturday 28 of April
-- [x] Loop 1 - Step 7 - Sunday 29 of April
-- [x] Loop 1 - Step 8 - Monday 30 of April
-- [x] Loop 1 - Step 9 - Tuesday 1st May
-- [x] Loop 1 - Step 10 - Wednesday 2 of May
-- [x] Loop 2 - Step 1 - Thursday 3 of May
-- [x] Loop 2 - Step 2 - Friday 4 of May
-- [x] Loop 2 - Step 3 - Saterday 5 of May
-- [x] Loop 2 - Step 4 - Sunday 6 of May
-- [ ] Loop 2 - Step 5
+- [x] Loop 1 - Step 1 - Monday, April 23
+- [x] Loop 1 - Step 2 - Tuesday, April 24
+- [x] Loop 1 - Step 3 - Wednesday, April 25
+- [x] Loop 1 - Step 4 - Thursday, April 26
+- [x] Loop 1 - Step 5 - Friday, April 27
+- [x] Loop 1 - Step 6 - Saturday, April 28
+- [x] Loop 1 - Step 7 - Sunday, April 29
+- [x] Loop 1 - Step 8 - Monday, April 30
+- [x] Loop 1 - Step 9 - Tuesday, May 1st
+- [x] Loop 1 - Step 10 - Wednesday, May 2
+- [x] Loop 2 - Step 1 - Thursday, May 3
+- [x] Loop 2 - Step 2 - Friday, May 4
+- [x] Loop 2 - Step 3 - Saturday, May 5
+- [x] Loop 2 - Step 4 - Sunday, May 6
+- [ ] Loop 2 - Step 5 - Monday, May 7
 - [ ] Loop 2 - Step 6
 - [ ] Loop 2 - Step 7
 - [ ] Loop 2 - Step 8
