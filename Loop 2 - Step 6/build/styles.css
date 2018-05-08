@@ -1,0 +1,85 @@
+html,
+body{
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 16px;
+}
+.container{
+	display: flex;
+	height: 100vh;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	background: #78ACCA;
+	color: rgb(128,134,147);
+}
+.content{
+	background: white;
+	box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+	width: 400px;
+}
+.month{
+	display: flex;
+	justify-content: space-between;
+	border-bottom: 1px solid rgb(222,222,222);
+	padding: 10px 20px; 
+}
+.weekdays{
+	text-transform: uppercase;;
+	color: rgb(125,137,147);
+	padding: 0 20px 0 20px;
+	display: flex;
+	justify-content: space-between;
+}
+.weekdays > p{
+	font-weight: 100;
+	font-size: 0.8em;
+}
+
+.weeks{
+	display: flex;
+	flex-direction: column;
+	padding: 0 20px 0 20px;
+	font-size: 0.8em;
+}
+.week{
+	display: flex;
+	justify-content: space-between;
+	text-align: right;
+}
+.week > p{
+	color: black;
+	margin: 0;
+	
+	width: 36px;
+	height: 36px;
+}
+
+.week > p.last-month{
+	color: rgb(222,222,222);
+}
+.week > p.cal{
+	border: 1px solid rgb(202,129,78); 
+	border-radius: 50%;
+}
+.week > p.cal2{
+	border: 1px solid rgb(174,89,74); 
+}
+.week > p.today{
+	color: white;
+	background: rgb(202,129,78); 
+	border: 1px solid rgb(202,129,78); 
+	border-radius: 50%;
+}
+.footer{
+	display: flex;
+	justify-content: space-between;
+	border-top: 1px solid rgb(222,222,222);
+	padding: 10px 20px; 
+	font-size: 0.8em;
+}
+.footer > p.cal{
+	border: 1px solid rgb(202,129,78); 
+	border-radius: 50%;
+}
