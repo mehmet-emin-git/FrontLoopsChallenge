@@ -18,10 +18,10 @@ It comes from [frontloops.io](http://frontloops.io/)
 - [x] Loop 2 - Step 2 - Friday, May 4
 - [x] Loop 2 - Step 3 - Saturday, May 5
 - [x] Loop 2 - Step 4 - Sunday, May 6
-- [ ] Loop 2 - Step 5 - Monday, May 7
-- [ ] Loop 2 - Step 6
-- [ ] Loop 2 - Step 7
-- [ ] Loop 2 - Step 8
+- [x] Loop 2 - Step 5 - Monday, May 7
+- [x] Loop 2 - Step 6 - Tuesday, May 8
+- [x] Loop 2 - Step 7 - Wednesday, May 9
+- [x] Loop 2 - Step 8 - Thursday, May 10
 - [ ] Loop 2 - Step 9
 - [ ] Loop 2 - Step 10
 - [ ] Loop 3 - Step 1
