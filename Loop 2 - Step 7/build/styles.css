@@ -1,0 +1,103 @@
+html,
+body{
+	font-weight: 400;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	color: black;
+}
+
+.container{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #C9F8FD;
+	height: 100vh;
+}
+.left{
+	background: url(../img/background.jpg) no-repeat center center;
+	background-size: cover;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	color: white;
+	width: 450px;
+	height: 570px;
+}
+h1{
+	font-size: 2em;
+	margin-bottom: 0;
+}
+h2{
+	font-size: 0.8em;
+}
+button{
+	padding: 10px 15px;
+	border-radius: 50px;
+	border: 0;
+	background-color: #69A899;
+	display: flex;
+	justify-content: center;
+	color: white;
+	align-items: center;
+}
+.file{
+	padding-right: 15px;
+}
+.button:hover{
+	background-color: #69A899;
+}
+
+.right{
+	display: flex;
+	flex-direction: column;
+	background-color: white; 
+	width: 550px;
+	height: 570px;
+}
+.head{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 40px 35px 0px 35px;
+}
+h3{
+	font-size: 2em;
+	margin: 0;
+}
+.years{
+	display: flex;
+	justify-content: space-between;
+	align-content: center;
+	padding: 0 35px;
+}
+.years > p{
+	color: #C2C2C2;
+	font-size: 1.2em;
+}
+.years > p:hover,
+.years > p.active{
+	color: black;
+	cursor: pointer;
+}
+
+.articles{
+	display: flex;
+	flex-direction: column;
+	padding: 15px 35px;
+	overflow: scroll;
+}
+.article{
+	display: flex;
+	justify-content: space-between;
+	padding: 15px 0;
+}
+.inside{
+	width: 100%;
+}
+img{
+	width: 45px;
+	height: 45px;
+	border-radius: 50%;
+	padding: 0px 15px;
+}
