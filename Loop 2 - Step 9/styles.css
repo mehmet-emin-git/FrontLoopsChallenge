@@ -1,0 +1,96 @@
+html,
+body{
+	font-weight: 400;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	color: black;
+}
+
+.container{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #4979EE;
+	height: 100vh;
+}
+.item{
+	width: 380px;
+	background-color: #FFFFFF;
+}
+.head{
+	display: flex;
+	justify-content: space-between;
+	padding: 15px;
+	text-transform: uppercase;
+	color: #BBBBBB;
+	fill:  #BBBBBB;
+	font-size: 1em;
+	align-items: center;
+}
+h1{
+	font-size: 0.81em;
+	font-weight: 200;
+	margin: 0;
+	color: black;
+}
+svg{
+	fill:  #BBBBBB;	
+}
+.details{
+	padding: 15px;
+	display: flex;
+	flex-direction: column;
+}
+h2{
+	font-weight: 200;
+	font-size: 0.81em;
+	text-transform: uppercase;
+	color: black;
+}
+.detail{
+	display: flex;
+	align-items: center;
+	padding-bottom: 15px;
+	position: relative;
+}
+p{
+	margin: 0;
+	padding: 0;
+	font-size: 0.81em;
+}
+p.meter{
+	color: #BBBBBB;
+}
+.direction{
+	padding-right: 15px;
+}
+.img{
+	background: url(../img/streetview.jpg) no-repeat center center;
+	border-top-left-radius: 3px;
+	border-bottom-left-radius: 3px;
+	width: 100%;
+	position: inherit;
+	height: 60px;
+	top: 0;
+	left: 15px;
+	background-size: cover;
+}
+.map{
+	position: relative;
+	box-shadow: 0px 10px 9px 0px rgba(0,0,0,0.75);
+}
+.bg{
+	background: url(../img/map.png) no-repeat center center;
+	border-radius: 3px;
+	width: 105%;
+	position: inherit;
+	height: 160px;
+	top: 0;
+	left: -8px;
+	background-size: cover;
+}
+.bg--blue{
+	background-color: rgba(73,148,238, 0.75);
+	height: 100%;
+	width: 100%;
+}
