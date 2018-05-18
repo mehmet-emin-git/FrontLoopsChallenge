@@ -26,6 +26,11 @@ h1{
 h2{
 	margin-top: 0;
 }
+.info{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
 h2, p.info-title{
 	color: #B7ADAA;
 	font-weight: 400;
