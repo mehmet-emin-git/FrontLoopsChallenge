@@ -7,7 +7,6 @@ body{
 }
 h1{
 	margin:0;
-	padding: 20px 20px 20px 0;
 	text-transform: uppercase;
 	font-size: 1em;
 	font-weight: 400;
@@ -32,13 +31,13 @@ img{
 .header{
 	background-color: #6B97D3;
 	color: white;
-	width: 100%;
+	padding: 10px;
 	display: flex;
 	align-items: center;
+	justify-content: space-between;
 }
 .header > p{
 	margin:0;
-	padding: 20px 5px 20px 20px;
 	text-transform: uppercase;
 	font-size: 1em;
 	font-weight: 700;
@@ -153,7 +152,7 @@ a{
 	color: #6B97D3;
 	text-decoration: none;
 }
-a:hover{
-	color: #E6EDF5;
+a:hover > svg{
+	fill: #E6EDF5;
 }
 
