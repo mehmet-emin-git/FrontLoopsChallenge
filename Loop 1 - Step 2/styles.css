@@ -76,6 +76,8 @@ button{
 	border: 0;
 	width: 100%;
 	text-transform: uppercase;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
 }
 button:hover{
 	background-color: rgb(75,131,241);
@@ -86,4 +88,12 @@ img.check{
 }
 button > img{
 	width: 15px;
+}
+.selected{
+	color: black;
+}
+.is-checked{
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
 }
