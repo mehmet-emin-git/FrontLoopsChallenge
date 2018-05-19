@@ -14,7 +14,7 @@ body{
 	height: 100vh;
 }
 .left{
-	background: url(../img/background.jpg) no-repeat center center;
+	background: url(https://media.mutualart.com/Images/2015_06/09/00/001746700/db005295-54c0-47c0-9125-b88abe23785f_570.Jpeg) no-repeat center center;
 	background-size: cover;
 	display: flex;
 	flex-direction: column;
@@ -51,6 +51,10 @@ button{
 	justify-content: center;
 	color: white;
 	align-items: center;
+}
+button:hover{
+	background-color: #305B51;
+	cursor: pointer;
 }
 .file{
 	padding-right: 15px;
