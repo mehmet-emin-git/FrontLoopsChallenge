@@ -21,27 +21,29 @@ header{
 	min-width: 660px;
 	margin: 30px auto;
 }
-input{
-	border:0;
-}
 article.watch{
 	padding: 6em 0 10em 0;
-	background: url(../img/watches.jpg) no-repeat;
-	background-position: right -105px bottom 0px;
+	background: url(https://cdn.images.express.co.uk/img/dynamic/59/590x/secondary/Customers-will-be-able-to-order-Apple-Watch-Series-3-GPS-beginning-Friday-September-15-with-availability-beginning-Friday-S-1064239.jpg) no-repeat;
+	background-position: right -35px bottom 70px;
 	background-size: 50%;
 	border-bottom: 1px solid rgb(155,155,155);
 }
 
 .logo{
-
+	flex: 1;
 }
 .nav{
 	display: flex;
 	align-items: center;
+	justify-content: space-evenly;
+	flex: 4;
 }
-.nav input{
+input{
 	color: #B2B2B3;
-	text-decoration: underline;	
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	border-bottom: 2px solid #B2B2B3;
 }
 .nav a{
 	display: block;
@@ -49,13 +51,10 @@ article.watch{
 	text-decoration: none;
 	padding: 10px;
 }
-.nav a.active{
-	color: #A7A6A7;
-	text-decoration: underline;
-}
+.nav a.active,
 .nav a:hover{
 	color: #A7A6A7;
-	text-decoration: underline;
+	border-bottom: 2px solid #B2B2B3;
 }
 article{
 	display: flex;
@@ -83,6 +82,10 @@ button{
 	text-transform: uppercase;
 	color: white;
 	font-size: 0.8em;
+}
+button:hover{
+	cursor: pointer;
+	background-color: #9D3231;
 }
 .img{
 	flex-basis: 50%;
@@ -146,6 +149,10 @@ h2{
 .runner{
 	color: white;
 	padding: 10em 0;
-	background: url(../img/runners.jpg) no-repeat;
+	background: url(https://media.glamour.com/photos/581cd2f28b483d1c320b46cc/master/pass/amy-running.jpg) no-repeat;
 	background-size: cover;
+}
+.white{
+	color: white;
+	border-left: 2px solid white;
 }
