@@ -65,7 +65,7 @@ p.meter{
 	padding-right: 15px;
 }
 .img{
-	background: url(../img/streetview.jpg) no-repeat center center;
+	background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNoJ88nXXEMgCv-e62Vtw7k09YbG7cRr-sLrZBLHx-e7PWI-YipA) no-repeat center center;
 	border-top-left-radius: 3px;
 	border-bottom-left-radius: 3px;
 	width: 100%;
@@ -80,17 +80,62 @@ p.meter{
 	box-shadow: 0px 10px 9px 0px rgba(0,0,0,0.75);
 }
 .bg{
-	background: url(../img/map.png) no-repeat center center;
+	background: url(https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Google_maps_screenshot.png/300px-Google_maps_screenshot.png) no-repeat center center;
 	border-radius: 3px;
 	width: 105%;
-	position: inherit;
+	position: absolute;
 	height: 160px;
 	top: 0;
 	left: -8px;
 	background-size: cover;
+	box-shadow: 0px 10px 9px 0px rgba(0,0,0,0.75);
 }
 .bg--blue{
 	background-color: rgba(73,148,238, 0.75);
 	height: 100%;
 	width: 100%;
+}
+.row{
+	position: relative;
+	padding: 15px;
+	display: flex;
+	justify-content: space-between;
+	color: white;
+	font-size: 1.2em;
+}
+.first{
+	padding-top: 30px;
+}
+.row > p {
+	flex: 1;
+}
+.row > .position{
+	flex: 2;
+}
+.row > p > span{
+	text-transform: uppercase;
+}
+button{
+	position: absolute;
+	background-color: #4979EE;
+	border: 1px solid #4979EE;
+	border-radius: 5px;
+	display: flex;
+	color: white;
+	fill: white;
+	text-transform: uppercase;
+	justify-content: space-between;
+	align-content: center;
+	align-items: center;
+	padding: 5px 10px;
+	font-size: 1.2em;
+	top: 140px;
+	left: 231px;
+	box-shadow: 0px 10px 9px 0px rgba(0,0,0,0.75);
+}
+button > .svg > svg{
+	fill: white;
+}
+.car > svg {
+	fill: white;
 }

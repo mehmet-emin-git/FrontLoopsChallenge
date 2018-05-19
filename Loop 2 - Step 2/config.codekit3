@@ -9,6 +9,12 @@
 	],
 "creatorBuild": "26680",
 "files": {
+	"\/build": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/build",
+		"oF": 0
+		},
 	"\/design\/Loop 2 - Step 2.mp4": {
 		"cB": 0,
 		"ft": 8192,
